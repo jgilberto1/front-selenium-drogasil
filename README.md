@@ -57,3 +57,7 @@ A execução default está setada em config\cucumber.yml como execução no brow
 **Relatórios**
 
 - São gerados na pasta raiz com o nome report.html
+
+
+
+© Copyright João Gilberto. Todos os direitos reservados.
