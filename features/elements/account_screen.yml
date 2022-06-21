@@ -1,0 +1,13 @@
+account:
+  resumo_conta:
+    type: 'css'
+    value: 'div[class="MyAccountContentHeaderstyles__HeaderStyles-sc-52h6ot-0 fhlCRd MyAccountContentHeader"]'
+  deslogar:
+    type: 'css'
+    value: 'a[href="/customer/account/logout"]'
+  deslogado:
+    type: 'css'
+    value: 'div[class="LogoutSucessstyles__LogoutSucessStyles-w4oz1y-7 dIROMG"]'
+  banner_home:
+    type: 'css'
+    value: 'img[data-qa="banner"]'

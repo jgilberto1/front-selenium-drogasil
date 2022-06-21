@@ -1,0 +1,9 @@
+# --------------------------Dados de login --------------------------
+
+email_valido: 'emailvalidocadastrado@emailvalido.com'
+senha_valida: 'senhavalida'
+cpf_valido: 'cpfvalidocadastradoapenasnumeros'
+email_invalido: 'jaaa@gmail.com'
+senha_invalida: '123456'
+cpf_invalido: '82269576560'
+

@@ -1,0 +1,22 @@
+login:
+  pagina_login:
+    type: 'css'
+    value: 'div[class="LoginFormstyles__LoginFormStyles-de4h25-0 jwBwIr"]'
+  input_email_cpf:
+    type: 'id'
+    value: 'emailCpf'
+  input_password:
+    type: 'id'
+    value: 'password'
+  btn_login:
+    type: 'css'
+    value: 'button[data-qa="btn_signin"]'
+  erro_login:
+    type: 'xpath'
+    value: '/html/body/div[1]/main/div/div[1]/div[2]/div[1]/div[1]/p[2]'
+  senha_vazio:
+    type: 'xpath'
+    value: '/html/body/div[1]/main/div/div[1]/div[2]/div[1]/div[1]/form/div[2]/small'  
+  dado_vazio:
+    type: 'xpath'
+    value: '/html/body/div[1]/main/div/div[1]/div[2]/div[1]/div[1]/form/div[1]/small'

@@ -1,0 +1,8 @@
+
+# Browser e report
+firefox: BROWSER=firefox -f json -o cucumber.json  --format html --out reports.html
+firefox_headless: BROWSER=firefox_headless -f json -o cucumber.json --format html --out reports.html
+chrome: BROWSER=chrome -f json -o cucumber.json --format html --out reports.html
+ie: BROWSER=ie -f message -o --format html --out reports.html
+safari: BROWSER=safari -f message -o --format html --out reports.html
+default: BROWSER=chrome --format html --out reports.html

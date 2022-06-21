@@ -1,0 +1,10 @@
+home:
+  sua_conta:
+    type: 'css'
+    value: 'p[data-qa="account"]'
+  acessa_login:
+    type: 'css'
+    value: 'button[data-qa="header_menu_btn_login"]'
+  logo_drogasil:
+    type: 'css'
+    value: 'a[title="Drogasil"]'  
